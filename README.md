@@ -1,4 +1,4 @@
-# Graph Design for Simplified AidData Dataset
+# Graph Designs for Simplified AidData Dataset (D3.js)
 
 Design visualizations answering questions related to a simplified [AidData dataset](https://www.aiddata.org/data/aiddata-core-research-release-level-1-3-1).
 
