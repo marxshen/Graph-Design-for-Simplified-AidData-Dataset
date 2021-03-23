@@ -1,0 +1,14 @@
+{
+  "name": "335b4e86071947d1",
+  "main": "335b4e86071947d1@220.js",
+  "version": "220.0.0",
+  "homepage": "https://observablehq.com/d/335b4e86071947d1",
+  "author": {
+    "name": "Max Shen",
+    "url": "https://observablehq.com/@maxshen"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}
