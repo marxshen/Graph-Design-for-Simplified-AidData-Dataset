@@ -6,7 +6,7 @@ View this notebook in your browser by running a web server in this folder. For
 example:
 
 ~~~sh
-python -m SimpleHTTPServer
+python -m http.server
 ~~~
 
 Or, use the [Observable Runtime](https://github.com/observablehq/runtime) to
