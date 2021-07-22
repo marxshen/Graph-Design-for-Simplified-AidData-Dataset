@@ -1,8 +1,8 @@
 # Graph Designs for Simplified AidData Dataset (D3.js)
 
-Design visualizations to answer varied questions (Geo, Time and Networks) related to a simplified [AidData dataset](https://www.aiddata.org/data/aiddata-core-research-release-level-1-3-1).
+This compendium lists visualizations to answer questions regarding geomatics, time and networks in a simplified [AidData dataset](https://www.aiddata.org/data/aiddata-core-research-release-level-1-3-1).
 
-The dataset contains information about financial transactions for aid purposes between any two countries.
+The AidData dataset contains information about financial transactions for aid purposes between any two countries.
 
 [Graph Design (Geo)](https://observablehq.com/d/76848a463d0cf621)
 
